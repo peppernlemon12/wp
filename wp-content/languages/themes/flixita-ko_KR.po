@@ -1,0 +1,589 @@
+# Translation of Themes - Flixita in Korean
+# This file is distributed under the same license as the Themes - Flixita package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-07 02:28:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - Flixita\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightning Fast Speed & Responsive Theme. Flixita is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme.  View the demo of Flixita Pro https://demo.themesdaddy.com/flixita-pro/"
+msgstr "번개처럼 빠른 속도 및 반응형 테마. Flixita는 모든 종류의 웹사이트를 만들 수 있는 반응형 및 완벽하게 사용자 정의 가능한 테마입니다. 고급 관리 패널을 사용하면 기술적인 지식 없이도 사용자 정의할 수 있습니다. 이 테마는 가볍기 때문에 블로그, 포트폴리오, 연기 및 촬영 산업, 최신 유행 뉴스, 신문, 대형 잡지, 패션, 어두운 테마, 애완동물 관리, 동물 야생 동물, 목조 건축, 배관과 같은 거의 모든 유형의 웹 사이트를 만들 수 있습니다. 계약자, 페인팅 부동산, 인테리어 디자인, 방 가구, 가정 장식, 녹색 꽃 자연, 건설, 기업, 다중 대리점, 비즈니스 홍보, 어두운 변형, 산업, 미용 및 스파 살롱, 사진, 체육관, 피트니스, 건강, 의료, 스타트업, 비즈니스 대행사, 법률 회사, 여행, NGO, 자선 단체, 요가, 어린이 교육, 훈련 기관, 대학 포털, 레스토랑, 메타샵, 퀵 매거진, 뮤추얼 펀드, 금융, 회계, 컨설팅, 여행사 웹사이트. 테마는 Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, WordPress, bbPress, Demo Importer, WPForms 등을 위한 Mailchimp. 귀하의 WordPress 웹사이트는 이 테마로 결코 실망하지 않을 것입니다.  Flixita Pro 데모 보기 https://demo.themesdaddy.com/flixita-pro/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Flixita"
+msgstr "Flixita"
+
+#: core/customizer/flixita-default-options.php:18
+msgid "Get in Touch"
+msgstr "문의하기"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:574
+msgid "Get started with %1$s"
+msgstr "%1$s 시작하기"
+
+#: core/core.php:568
+msgid "Install and activate <strong>Daddy Plus</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "이 테마가 제공하는 모든 기능을 최대한 활용하려면 <strong>Daddy Plus</strong> 플러그인을 설치하고 활성화하세요."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:564
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "어서 오십시오! %1$s을(를) 선택해 주셔서 감사합니다!"
+
+#: core/core.php:557
+msgid "Theme Screenshot"
+msgstr "테마 스크린샷"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:22
+msgid "Share a Good Review"
+msgstr "좋은 리뷰를 공유하세요"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:18
+msgid "Premium Demo"
+msgstr "프리미엄 데모"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:16
+msgid "Need Support ?"
+msgstr "지원이 필요하십니까?"
+
+#: woocommerce/content-product.php:34
+msgid "Sale"
+msgstr "영업"
+
+#: woocommerce/cart/mini-cart.php:134 woocommerce/cart/mini-cart.php:266
+msgid "No products in the cart."
+msgstr "장바구니에 상품이 없습니다."
+
+#: woocommerce/cart/mini-cart.php:112 woocommerce/cart/mini-cart.php:241
+msgid "Checkout"
+msgstr "체크아웃"
+
+#: woocommerce/cart/mini-cart.php:71 woocommerce/cart/mini-cart.php:201
+msgid "Remove this item"
+msgstr "이 항목 제거"
+
+#: woocommerce/cart/mini-cart.php:46 woocommerce/cart/mini-cart.php:176
+msgid "Total:"
+msgstr "총합계:"
+
+#: template-parts/content.php:70
+msgid "Pages:"
+msgstr "페이지:"
+
+#: template-parts/content-page.php:69 template-parts/content.php:65
+msgid "Read More"
+msgstr "더 읽어보기"
+
+#: template-parts/content-page.php:45 template-parts/content.php:41
+msgid "Comments"
+msgstr "댓글"
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "찾고 있는 것을 찾을 수 없는 것 같습니다. 검색이 도움이 될 수도 있습니다."
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "죄송합니다. 검색어와 일치하는 항목이 없습니다. 다른 키워드로 다시 시도하십시오."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "첫 번째 글을 발행할 준비가 됐나요? <a href=\"%1$s\">여기서 시작하세요</a>."
+
+#: template-parts/author-details.php:36
+msgid "View All Post"
+msgstr "모든 게시물 보기"
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: template-parts/author-details.php:26
+msgid "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+msgstr "아직 인명 정보를 입력하지 않으셨습니다. %1$s지금 프로필%2$s을 수정하세요."
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr "검색:"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "빌더 페이지"
+
+#: header.php:132
+msgid "Header Close Menu"
+msgstr "헤더 메뉴 닫기"
+
+#: header.php:123
+msgid "Menu Collaped"
+msgstr "메뉴 접기"
+
+#: header.php:86
+msgid "Search Popup Close"
+msgstr "검색 팝업 닫기"
+
+#: header.php:83
+msgid "Type To Search"
+msgstr "검색하려면 입력하세요."
+
+#: header.php:82
+msgid "Site Search"
+msgstr "사이트 검색"
+
+#: header.php:79
+msgid "Search Popup"
+msgstr "검색 팝업"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "콘텐츠로 건너뛰기"
+
+#: functions.php:18
+msgid "Primary Menu"
+msgstr "주요 메뉴"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "전체 폭 페이지"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "프론트 페이지"
+
+#: footer.php:7
+msgid "scrollingUp"
+msgstr "스크롤업"
+
+#: core/theme-menu/class-bootstrap-navwalker.php:227
+msgid "Add a menu"
+msgstr "메뉴 추가"
+
+#: core/customizer/flixita-panels-and-sections.php:60
+msgid "Footer Setting"
+msgstr "바닥글 설정"
+
+#: core/customizer/flixita-panels-and-sections.php:52
+msgid "Blog Setting"
+msgstr "블로그 설정"
+
+#: core/customizer/flixita-panels-and-sections.php:43
+msgid "Top Scroller Setting"
+msgstr "탑 스크롤러 설정"
+
+#: core/customizer/flixita-panels-and-sections.php:36
+msgid "Page Header Setting"
+msgstr "페이지 헤더 설정"
+
+#: core/customizer/flixita-panels-and-sections.php:31
+msgid "General Options"
+msgstr "일반 옵션"
+
+#: core/customizer/flixita-panels-and-sections.php:24
+msgid "Menu Bar Setting"
+msgstr "메뉴바 설정"
+
+#: core/customizer/flixita-panels-and-sections.php:17
+msgid "Top Bar Setting"
+msgstr "상단 표시줄 설정"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:20
+#: core/customizer/flixita-panels-and-sections.php:11
+msgid "Upgrade to Pro"
+msgstr "프로로 업그레이드"
+
+#: core/customizer/flixita-general.php:288
+msgid "Copyright"
+msgstr "저작권"
+
+#: core/customizer/flixita-general.php:275
+msgid "Footer  Copyright"
+msgstr "바닥글 저작권"
+
+#: core/customizer/flixita-general.php:259
+msgid "Content"
+msgstr "컨텐트"
+
+#: core/customizer/flixita-general.php:258
+msgid "Meta"
+msgstr "메타"
+
+#: core/customizer/flixita-general.php:254
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr "게시물 항목을 드래그 앤 드롭하여 순서를 다시 정렬하고 눈 아이콘을 클릭하여 필요에 따라 항목을 숨기거나 표시할 수도 있습니다."
+
+#: core/customizer/flixita-general.php:243
+msgid "Blog/Archive/Single"
+msgstr "블로그/아카이브/싱글"
+
+#: core/customizer/flixita-general.php:227
+msgid "Overlay Color"
+msgstr "오버레이 색상"
+
+#: core/customizer/flixita-general.php:214
+msgid "Opacity"
+msgstr "불투명"
+
+#: core/customizer/flixita-general.php:187
+msgid "Page Header"
+msgstr "페이지 헤더"
+
+#: core/customizer/flixita-general.php:158
+msgid "Sticky Header"
+msgstr "고정 헤더"
+
+#: core/customizer/flixita-general.php:141
+msgid "Open in New Tab ?"
+msgstr "새 탭에서 열까요?"
+
+#: core/customizer/flixita-general.php:115
+msgid "Label"
+msgstr "라벨"
+
+#: core/customizer/flixita-general.php:88
+msgid "Button"
+msgstr "단추"
+
+#: core/customizer/flixita-general.php:61 searchform.php:9 searchform.php:11
+msgid "Search"
+msgstr "찾다"
+
+#: core/customizer/flixita-general.php:47
+#: core/customizer/flixita-general.php:74
+#: core/customizer/flixita-general.php:100
+#: core/customizer/flixita-general.php:169
+#: core/customizer/flixita-general.php:200
+msgid "Enable / Disable ?"
+msgstr "켜기 끄기 ?"
+
+#: core/customizer/flixita-general.php:34
+msgid "Cart"
+msgstr "카트"
+
+#: core/customizer/flixita-general.php:18
+msgid "Logo Size"
+msgstr "로고 크기"
+
+#: core/customizer/flixita-default-options.php:29
+msgid "Copyright &copy; {current_year}. Created by %s. Powered by %s."
+msgstr "저작권 &copy; {current_year}. %s님이 작성했습니다. %s 제공."
+
+#: core/customizer/customizer.php:114
+msgid "Deactivate"
+msgstr "비활성화"
+
+#: core/customizer/customizer.php:113
+msgid "Activate"
+msgstr "활성화"
+
+#: core/customizer/customizer.php:112
+msgid "Install and Activate"
+msgstr "설치 및 활성화"
+
+#: core/customizer/customizer.php:111
+msgid "Add More Features"
+msgstr "더 많은 기능 추가"
+
+#: core/customizer/customizer.php:110
+msgid "Recommended Actions"
+msgstr "권장 조치"
+
+#. translators: %s: plugin name
+#: core/customizer/customizer.php:104
+msgid "Recommended Plugin: If you want to show all the features and business sections of the FrontPage. please install and activate %s plugin"
+msgstr "권장 플러그인: FrontPage의 모든 기능과 비즈니스 섹션을 표시하려는 경우. %s 플러그인을 설치하고 활성화하십시오."
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:571
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Add Icon"
+msgstr "아이콘 추가"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:566
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:596
+msgid "Remove Icon"
+msgstr "아이콘 제거"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:549
+msgid "Social icons"
+msgstr "소셜 아이콘"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:541
+msgid "None"
+msgstr "없음"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:536
+msgid "Image type"
+msgstr "이미지 유형"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:525
+msgid "Center"
+msgstr "중앙"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:521
+msgid "Right"
+msgstr "오른쪽"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:517
+msgid "Left"
+msgstr "왼쪽"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:513
+msgid "Align"
+msgstr "정렬"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:505
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:502
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "Image"
+msgstr "영상"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:467
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "참고: 일부 아이콘은 여기에 표시되지 않을 수 있습니다. %1$s에서 전체 아이콘 목록을 볼 수 있습니다."
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:461
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "Icon"
+msgstr "상"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:450
+msgid "Open link in new tab:"
+msgstr "새 탭에서 링크 열기:"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:414
+msgid "Delete field"
+msgstr "필드 삭제"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:315
+msgid "Delete %s"
+msgstr "%s 지우기"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:278
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:384
+msgid "Button Text"
+msgstr "버튼 텍스트"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:269
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:394
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:563
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:585
+#: core/customizer/flixita-general.php:129
+msgid "Link"
+msgstr "링크"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:261
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:376
+msgid "Button Label"
+msgstr "버튼 라벨"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:254
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:369
+msgid "Description"
+msgstr "설명"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:246
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:360
+msgid "Subtitle 2"
+msgstr "부제목 2"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:238
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:352
+msgid "Subtitle"
+msgstr "부제목"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:230
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:344
+#: core/customizer/flixita-general.php:257
+msgid "Title"
+msgstr "제목"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:34
+msgid "Customizer Repeater"
+msgstr "사용자 정의 반복"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:29
+msgid "Add new field"
+msgstr "새 영역 추가"
+
+#: core/customizer/customizer-notice/flixita-customizer-notify.php:114
+msgid "Activating"
+msgstr "활성화"
+
+#: core/core.php:522
+msgid "Page"
+msgstr "페이지"
+
+#: core/core.php:516
+msgid "Error 404 "
+msgstr "오류 404 "
+
+#: core/core.php:511
+msgid "Articles posted by "
+msgstr "게시글 게시자 "
+
+#: core/core.php:504
+msgid "Posts tagged "
+msgstr "태그가 있는 글 "
+
+#: core/core.php:389
+msgid "Search results for "
+msgstr "다음에 대한 검색 결과: "
+
+#: core/core.php:383
+msgid "Archive by category"
+msgstr "카테고리별로 보관"
+
+#: core/core.php:377
+msgid "Home"
+msgstr "홈"
+
+#: core/core.php:359
+msgid "Author: %s"
+msgstr "작성자: %s"
+
+#: core/core.php:357
+msgid "Error 404"
+msgstr "오류 404"
+
+#: core/core.php:355
+msgid "Tag Archives: %s"
+msgstr "태그 보관물: %s"
+
+#: core/core.php:353
+msgid "Category Archives: %s"
+msgstr "카테고리 보관물: %s"
+
+#: core/core.php:351
+msgid "Yearly Archives: %s"
+msgstr "연도별 보관물: %s"
+
+#: core/core.php:349
+msgid "Monthly Archives: %s"
+msgstr "월별 보관물: %s"
+
+#: core/core.php:347
+msgid "Daily Archives: %s"
+msgstr "일별 보관물: %s"
+
+#: core/core.php:330 header.php:63 woocommerce/cart/mini-cart.php:39
+#: woocommerce/cart/mini-cart.php:122 woocommerce/cart/mini-cart.php:169
+#: woocommerce/cart/mini-cart.php:254
+msgid "0"
+msgstr "0"
+
+#: core/core.php:231
+msgid "This Widget area for WooCommerce Widget"
+msgstr "WooCommerce 위젯을 위한 위젯 영역입니다."
+
+#: core/core.php:229
+msgid "WooCommerce Sidebar"
+msgstr "우커머스 사이드바"
+
+#: core/core.php:217
+msgid "The Footer Widget Area 4"
+msgstr "바닥글 위젯 영역 4"
+
+#: core/core.php:215
+msgid "Footer  Sidebar 4"
+msgstr "바닥글 사이드바 4"
+
+#: core/core.php:204
+msgid "The Footer Widget Area 3"
+msgstr "바닥글 위젯 영역 3"
+
+#: core/core.php:202
+msgid "Footer  Sidebar 3"
+msgstr "바닥글 사이드바 3"
+
+#: core/core.php:191
+msgid "The Footer Widget Area 2"
+msgstr "바닥글 위젯 영역 2"
+
+#: core/core.php:189
+msgid "Footer  Sidebar 2"
+msgstr "바닥글 사이드바 2"
+
+#: core/core.php:178
+msgid "The Footer Widget Area 1"
+msgstr "바닥글 위젯 영역 1"
+
+#: core/core.php:176
+msgid "Footer  Sidebar 1"
+msgstr "바닥글 사이드바 1"
+
+#: core/core.php:163 core/core.php:165
+msgid "Main Sidebar Widget"
+msgstr "메인 사이드바 위젯"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "댓글이 닫혀있습니다."
+
+#: comments.php:26 comments.php:40
+msgid "Newer Comments"
+msgstr "최신 댓글"
+
+#: comments.php:25 comments.php:39
+msgid "Older Comments"
+msgstr "이전 댓글"
+
+#: comments.php:23 comments.php:37
+msgid "Comment navigation"
+msgstr "댓글 내비게이션"
+
+#: archive.php:11 index.php:16 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-12"
+msgstr "col-lg-12"
+
+#: archive.php:11 index.php:16 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-8"
+msgstr "col-lg-8"
+
+#: 404.php:16
+msgid "Go Home Page"
+msgstr "홈 페이지로 이동"
+
+#: 404.php:14
+msgid "The page you are looking is not available or has been removed."
+msgstr "귀하가 보고 있는 페이지는 사용할 수 없거나 삭제되었습니다."
+
+#: 404.php:13
+msgid "404 Page Not Found"
+msgstr "404 페이지를 찾을 수 없음"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/"
+msgstr "https://themesdaddy.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/themes/flixita-free/"
+msgstr "https://themesdaddy.com/themes/flixita-free/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themes Daddy"
+msgstr "Themes Daddy"

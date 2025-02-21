@@ -1,0 +1,90 @@
+# Translation of Themes - MultiBiz in Korean
+# This file is distributed under the same license as the Themes - MultiBiz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-06-19 06:46:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Themes - MultiBiz\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightning Fast Speed & Responsive Theme. MultiBiz is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme. View the demo of MultiBiz Pro https://demo.themesdaddy.com/multibiz-pro/"
+msgstr "번개처럼 빠른 속도 및 반응형 테마. MultiBiz는 모든 종류의 웹사이트를 만들 수 있는 반응형이며 완벽하게 사용자 정의 가능한 테마입니다. 고급 관리 패널을 사용하면 기술적인 지식 없이도 사용자 정의할 수 있습니다. 이 테마는 가볍기 때문에 블로그, 포트폴리오, 연기 및 촬영 산업, 최신 유행 뉴스, 신문, 대형 잡지, 패션, 어두운 테마, 애완동물 관리, 동물 야생 동물, 목조 건축, 배관과 같은 거의 모든 유형의 웹 사이트를 만들 수 있습니다. 계약자, 페인팅 부동산, 인테리어 디자인, 방 가구, 가정 장식, 녹색 꽃 자연, 건설, 기업, 다중 대리점, 비즈니스 홍보, 어두운 변형, 산업, 미용 및 스파 살롱, 사진, 체육관, 피트니스, 건강, 의료, 스타트업, 비즈니스 대행사, 법률 회사, 여행, NGO, 자선 단체, 요가, 어린이 교육, 훈련 기관, 대학 포털, 레스토랑, 메타샵, 퀵 매거진, 뮤추얼 펀드, 금융, 회계, 컨설팅, 여행사 웹사이트. 테마는 Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, WordPress, bbPress, Demo Importer, WPForms 등을 위한 Mailchimp. 귀하의 WordPress 웹사이트는 이 테마로 결코 실망하지 않을 것입니다. MultiBiz Pro 데모 보기 https://demo.themesdaddy.com/multibiz-pro/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "MultiBiz"
+msgstr "MultiBiz"
+
+#: header.php:138
+msgid "Header Close Menu"
+msgstr "헤더 메뉴 닫기"
+
+#: header.php:129
+msgid "Menu Collaped"
+msgstr "메뉴 접기"
+
+#: header.php:91
+msgid "Search Popup Close"
+msgstr "검색 팝업 닫기"
+
+#: header.php:88
+msgid "Type To Search"
+msgstr "검색하려면 입력하세요."
+
+#: header.php:87
+msgid "Site Search"
+msgstr "사이트 검색"
+
+#: header.php:84
+msgid "Search Popup"
+msgstr "검색 팝업"
+
+#: header.php:68
+msgid "0"
+msgstr "0"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "콘텐츠로 건너뛰기"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:20
+msgid "Share a Good Review"
+msgstr "좋은 리뷰를 공유하세요"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:18
+msgid "Upgrade to Pro"
+msgstr "프로로 업그레이드"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:16
+msgid "Premium Demo"
+msgstr "프리미엄 데모"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:14
+msgid "Need Support ?"
+msgstr "지원이 필요하십니까?"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/"
+msgstr "https://themesdaddy.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themes Daddy"
+msgstr "Themes Daddy"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/themes/multibiz-free/"
+msgstr "https://themesdaddy.com/themes/multibiz-free/"
